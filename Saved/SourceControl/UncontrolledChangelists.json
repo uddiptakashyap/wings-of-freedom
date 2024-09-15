@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/C/OW/MAJ2MOD2PKLFUN2HXZUDJ0.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/7/GN/M2TA9G213VHNMQN45BMHD3.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/7/39/PJEW9UB0HB9MX8NPSPI3GD.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/E/8Q/EA694EH090L23MWD4U089G.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/B/JG/9OHRZ14A8ZP9WTCTJ8JIH2.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/1/E5/PY60X3DNK22VHY3BPIPXXD.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/4/TO/4DFXOISYOQX2DWO2Q95UKN.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/0/R9/NX43PWKLE56DMVSOTA9Y0J.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/8/GA/9QYRUL0VRVGVIZRN3OM7LV.uasset",
+				"C:/Users/lenovo/Downloads/Bird-UnrealEngine-main/Bird-UnrealEngine-main/Content/__ExternalActors__/ThirdPersonMap/8/SL/5ZCPMZS5MYL7TQ3E4P5N2I.uasset"
+			]
+		}
+	]
+}
