@@ -28,7 +28,7 @@ To run this project, follow these steps:
 - **Ctrl**: Descend / Lose altitude
 - **Q, E**: Roll left or right
 
-Game Screenshot
+## Game Screenshot
 
 
 ![Screenshot 2024-09-16 225143](https://github.com/user-attachments/assets/f98545ac-899d-4217-abba-141cc96d2bbe)
